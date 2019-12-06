@@ -65,6 +65,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Anitra McCain - [Github](https://github.com/an1tra) - anitra.oursky@gmail.com
 
-Project Link: [https://github.com/an1tra/HW-Wireframe/index.html](https://github.com/an1tra/HW-Wireframe/index.html)
+Project Link: [https://github.com/an1tra/HW-Wireframe/](https://github.com/an1tra/HW-Wireframe/)
 
 
